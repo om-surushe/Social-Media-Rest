@@ -4,7 +4,7 @@
   "description": "This API was made for Reunion as a pre-interview task.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "om-surushe",
   "license": "ISC",
